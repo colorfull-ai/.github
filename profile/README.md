@@ -1,12 +1,14 @@
-<h2> Welcome to Colorfull! <img src="https://media3.giphy.com/media/IQIqjBgwv77rI8DwMX/giphy.gif" width="50"></h2>
+
 <img align='right' src="https://media2.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
-<p><em>AI-Driven Corporate Meal Delivery Service from the team of <a href="https://www.moveworks.com/">Moveworks</a> and <a href="https://www.copy.ai/">Copy.ai</a> Alumni <img src="https://media.giphy.com/media/64IV8rBSwUlcq2kKfJ/giphy.gif" width="30"></em></p>
+<p><em>AI-Driven Corporate Meal Delivery Service from the team of <a href="https://www.moveworks.com/">Moveworks</a> 
 Twitter: ColorfullAI
 GitHub Colorfull
 
-<img src="https://media4.giphy.com/media/Zz1IkXrd8zlWR1qric/giphy.gif" width="50"> A little more about Colorfull...
+![Kevins stats](https://github-readme-stats-git-main-kevmok.vercel.app/api?username=kevmok&count_private=true&theme=radical&hide=issues&hide_rank=true&show=reviews,prs_merged_percentage)
+![Top Langs](https://github-readme-stats-git-main-kevmok.vercel.app/api/top-langs/?username=kevmok&layout=compact&theme=tokyonight)
 
-<img src="https://media0.giphy.com/media/XGyFuLYCgbDZ8au5P8/giphy.gif" width="60"> <em><b>We love connecting with forward-thinking companies</b> looking to enhance their corporate dining experience. <b>Reach out, and let's innovate together!</b> <img src="https://media2.giphy.com/media/Qze6gDuxZt48U/giphy.gif" width="60"> </em>
+![Bens stats](https://github-readme-stats-git-main-kevmok.vercel.app/api?username=B2gdevs&count_private=true&theme=radical&hide=issues&hide_rank=true&show=reviews,prs_merged_percentage)
+![Top Langs](https://github-readme-stats-git-main-kevmok.vercel.app/api/top-langs/?username=kevmok&layout=compact&theme=tokyonight)
 
 Colorfull's AI Innovation
 Colorfull's AI Tech Stack
