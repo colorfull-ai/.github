@@ -5,20 +5,7 @@ Twitter: ColorfullAI
 GitHub Colorfull
 
 <img src="https://media4.giphy.com/media/Zz1IkXrd8zlWR1qric/giphy.gif" width="50"> A little more about Colorfull...
-typescript
-Copy code
-const colorfull: CorporateMealService = {
-  expertise: ['AI-driven solutions', 'corporate catering', 'nutritional planning'],
-  code: ['Python', 'JavaScript', 'TypeScript', 'Machine Learning', 'Data Analysis'],
-  tools: ['AI Optimization', 'Customizable Meal Plans', 'Automated Ordering System'],
-  mission: 'Delivering nutritious, diverse, and delicious corporate meals through advanced AI technology',
-  team: {
-    leaders: ['Kevin (ex-Moveworks)', 'Ben (ex-Copy.ai)'],
-    roles: ['AI Development', 'Software Engineering', 'Nutritional Experts'],
-  },
-  vision: 'Revolutionizing corporate dining experiences with cutting-edge AI',
-  connect: () => { return 'Join our AI Culinary Journey' }
-}
+
 <img src="https://media0.giphy.com/media/XGyFuLYCgbDZ8au5P8/giphy.gif" width="60"> <em><b>We love connecting with forward-thinking companies</b> looking to enhance their corporate dining experience. <b>Reach out, and let's innovate together!</b> <img src="https://media2.giphy.com/media/Qze6gDuxZt48U/giphy.gif" width="60"> </em>
 
 Colorfull's AI Innovation
