@@ -34,7 +34,7 @@ At Colorfull, we believe that the future of web development is not just powered 
 ![Top Langs](https://github-readme-stats-git-main-kevmok.vercel.app/api/top-langs/?username=kevmok&layout=compact&theme=tokyonight)
 
 ![Bens stats](https://github-readme-stats-git-main-kevmok.vercel.app/api?username=B2gdevs&count_private=true&theme=radical&hide=issues&hide_rank=true&show=reviews,prs_merged_percentage)
-![Top Langs](https://github-readme-stats-git-main-kevmok.vercel.app/api/top-langs/?username=kevmok&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-main-kevmok.vercel.app/api/top-langs/?username=B2gdevs&layout=compact&theme=tokyonight)
 
 
 
