@@ -30,11 +30,11 @@ Iterative is not just another tool in the developer's kit; it's the architect of
 
 At Colorfull, we believe that the future of web development is not just powered by AI but led by it. Iterative is our commitment to this future — a future where technology is not just a tool but a partner in innovation. Join us in this journey as we redefine what's possible in AI-driven development.
 
-![Kevins stats](https://github-readme-stats-git-main-kevmok.vercel.app/api?username=kevmok&count_private=true&theme=radical&hide=issues&hide_rank=true&show=reviews,prs_merged_percentage)
+![Kevins stats](https://github-readme-stats-git-main-kevmok.vercel.app/api?username=kevmok&count_private=true&theme=tokyonight&hide=issues&hide_rank=true&show=reviews,prs_merged_percentage)
 ![Top Langs](https://github-readme-stats-git-main-kevmok.vercel.app/api/top-langs/?username=kevmok&layout=compact&theme=tokyonight)
 
 ![Bens stats](https://github-readme-stats-git-main-kevmok.vercel.app/api?username=B2gdevs&count_private=true&theme=radical&hide=issues&hide_rank=true&show=reviews,prs_merged_percentage)
-![Top Langs](https://github-readme-stats-git-main-kevmok.vercel.app/api/top-langs/?username=B2gdevs&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-main-kevmok.vercel.app/api/top-langs/?username=B2gdevs&layout=compact&theme=radical)
 
 
 
